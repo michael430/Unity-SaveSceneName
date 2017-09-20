@@ -16,7 +16,7 @@ public class ScenesListEditor : Editor
 {
 
     // ref:  https://davikingcode.com/blog/retrieving-the-names-of-your-scenes-at-runtime-with-unity/
-    // Note: the arry index should be match with scene build index in built setting.
+    // Note: the array index should be match with scene build index in built setting.
     [MenuItem("House of Secrets/Save Scenes Names")]
     private static void SaveScenesNames()
     {
